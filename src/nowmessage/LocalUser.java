@@ -35,7 +35,7 @@ public class LocalUser {
         this.name = name;
         this.surname = surname;
         this.email = email;
-        this.password = password;
+        this.password = password;dcdcd
         this.photo = photo;
     }
 
